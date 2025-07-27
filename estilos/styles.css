@@ -1,0 +1,17 @@
+*{
+    font-family: arial;
+    font-size: 19px;
+}
+
+body {
+    background-color: blueviolet;
+
+}
+
+main {
+    background-color: aliceblue;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black rgba(red, green, blue, alpha);
+}
